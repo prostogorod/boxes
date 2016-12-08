@@ -2,11 +2,13 @@
 /**
  * boxes plugin
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2015 - today: WebRomen | https://github.com/WebRomen/boxes
+ * @author Roffun
+ * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/boxes-plugin
  * @license BSD
  */
+ 
 defined('COT_CODE') or die('Wrong URL.');
+
 $L['Boxes'] = 'Boxes';
 $L['info_name'] = 'Display content in a template';
 $L['info_desc'] = 'Output in the block template, widgets, and other counters visits';

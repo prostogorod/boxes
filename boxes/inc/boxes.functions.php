@@ -2,12 +2,13 @@
 /**
  * boxes plugin
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2015 - today: WebRomen | https://github.com/WebRomen/boxes
+ * @author Roffun
+ * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/boxes-plugin
  * @license BSD
  */
 
 defined('COT_CODE') or die('Wrong URL');
+
 require_once cot_langfile('boxes', 'plug');
 
 $shortpath = $cfg['plugin']['boxes'];

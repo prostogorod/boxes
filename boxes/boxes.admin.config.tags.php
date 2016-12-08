@@ -8,8 +8,8 @@
 /**
  * boxes plugin
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2015 - today: WebRomen | https://github.com/WebRomen/boxes
+ * @author Roffun
+ * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/boxes-plugin
  * @license BSD
  */
 
