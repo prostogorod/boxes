@@ -4,4 +4,4 @@ Boxes - Cotonti plug-in that can be used to deduce a pattern different blocks, w
 
 Russian documentation: https://github.com/Roffun/boxes/wiki
 
-Copyright (C) 2015 - today: Roffun
+Copyright (C) 2015 - today: Roffun |  https://github.com/Roffun
