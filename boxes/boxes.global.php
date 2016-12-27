@@ -9,7 +9,7 @@ Hooks=global
  * boxes plugin
  *
  * @author Roffun
- * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/boxes-plugin
+ * @copyright Copyright (C) 2015 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 

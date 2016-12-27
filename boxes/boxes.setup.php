@@ -8,7 +8,7 @@ Description=Output in the block template, widgets, and other counters visits
 Version=2.2.2
 Date=08.12.2016
 Author=Roffun
-Copyright=Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/boxes-plugin
+Copyright=Copyright (C) 2015 - today: Roffun | https://github.com/Roffun
 Notes=BSD License
 SQL=
 Auth_guests=R
@@ -47,7 +47,7 @@ boxdesc=48:textarea::box1, box2, box3, box4, box5, box6, box7, box8:
  * boxes plugin
  *
  * @author Roffun
- * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/boxes-plugin
+ * @copyright Copyright (C) 2015 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 
